@@ -1,0 +1,14 @@
+.video__iframe{
+  width: 515px;
+  height: 316px;
+  transition: opacity 1s linear 0s;
+
+}
+
+.video__iframe:last-child{
+  margin-left: 20px;
+}
+
+.video__iframe:hover{
+  opacity: 0.3;
+}
